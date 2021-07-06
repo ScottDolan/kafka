@@ -1,5 +1,9 @@
 # Kafka - Research Project 
-This project was created to perform research and answer question about Kafka processing, networking loads, fault tolerance, etc. 
+This personal project I created to help me perform research, testing, and answer question about Kafka processing, networking loads, fault tolerance, etc. 
+
+
+# Infrastructure 
+The project is deployed on AWS via AWS Cloud Formation Template 
 
 
 
